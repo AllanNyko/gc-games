@@ -30,3 +30,19 @@ Este arquivo diferencia decisões explícitas de hipóteses. **Uma sugestão nã
 2. Discutir impactos criativos, de jogabilidade e técnicos.
 3. Solicitar decisão do criador, sem presumir sua aprovação.
 4. Atualizar este registro, com data, status e justificativa.
+
+
+## Decisões adicionais — 2026-11-16
+| ID | Área | Decisão | Status |
+|---|---|---|---|
+| DEC-004 | Modos | Existirão Modo História e Modo Missões; este último permite partidas rápidas sem seguir a campanha | Aprovada |
+| DEC-005 | Narrativa | Escolhas explícitas e consequências de ações/omissões influenciarão eventos futuros; pessoas resgatadas podem reaparecer | Aprovada |
+| MIS-001 | Preparação | Antes de cada missão, o usuário terá 15 segundos para selecionar o que levar | Aprovada |
+| MIS-002 | Preparação | Se o usuário não selecionar, receberá um equipamento padrão | Aprovada |
+| INV-001 | Coleta | Durante missões, jogadores podem obter e transportar itens encontrados | Aprovada |
+| INV-002 | Mochila | Transporte limitado pela capacidade da mochila | Aprovada |
+| INV-003 | Expiração | Itens obtidos expiram toda segunda-feira, segundo reset semanal | Aprovada; horário/fuso a definir |
+
+**Nota interpretativa:** “validade de uma semana” e “toda segunda os inventários expiram” foram expressões utilizadas juntas. Registrou-se reset semanal às segundas, sem assumir validade individual de sete dias completos. Detalhes pendentes não devem ser implementados por suposição.
+
+**Pontos ainda sem aprovação:** dimensão da mochila, conteúdo do equipamento padrão, quais itens se mantêm após o reset, horário e fuso da expiração, condições de retenção de itens após derrota e integração dos inventários entre modos.
