@@ -70,3 +70,21 @@ Título final; universo; personagens; enredo; locais; armas; estética e intensi
 
 ## 11. Governança
 Consulte [DECISOES.md](DECISOES.md). Só promover propostas a decisões mediante manifestação explícita do criador. Registrar mudanças e substituições, não reescrever a história do projeto como se sempre tivesse sido assim.
+
+
+## 12. Modos e decisões de partida (atualização 2026-11-16)
+- **Modo História:** exploração, resgate e consequências persistentes derivadas de escolhas explícitas, ações e omissões. Sobreviventes resgatados podem reaparecer futuramente, conforme acontecimentos ainda definidos pelo diretor criativo.
+- **Modo Missões:** partidas avulsas, sem obrigação de seguir a história, destinadas inclusive a sessões rápidas entre amigos.
+- **Pré-missão:** período de **15 segundos** para escolher o equipamento que o jogador levará.
+- **Sem escolha:** aplicar automaticamente um **equipamento padrão**, cuja composição permanece indefinida.
+- **Coleta:** jogadores podem encontrar e levar itens obtidos durante as missões, condicionados ao **espaço disponível na mochila**.
+- **Expiração:** itens obtidos têm renovação/expiração **toda segunda-feira**, conforme instrução do criador. A expressão “validade de uma semana” precisa ser conciliada com reset semanal: até confirmação, o calendário da segunda-feira é a regra operacional registrada, não sete dias individuais contados por item.
+
+### Questões em aberto (não presumir)
+- Horário e fuso do reset de segunda-feira; como tratar missões iniciadas antes da virada.
+- Se o reset abrange todos os itens coletados, inclusive os equipados, ou exceções.
+- Quais itens básicos persistem para compor o equipamento padrão.
+- Capacidade da mochila (slots, peso, volume) e como itens ocupam espaço.
+- Se itens coletados são preservados ao abandonar ou perder uma missão.
+- Compartilhamento ou independência dos inventários de Modo História e Modo Missões.
+- Equipamentos disponíveis para escolher nos 15 segundos e comportamento dos demais jogadores.
