@@ -41,8 +41,8 @@ Este arquivo diferencia decisões explícitas de hipóteses. **Uma sugestão nã
 | MIS-002 | Preparação | Se o usuário não selecionar, receberá um equipamento padrão | Aprovada |
 | INV-001 | Coleta | Durante missões, jogadores podem obter e transportar itens encontrados | Aprovada |
 | INV-002 | Mochila | Transporte limitado pela capacidade da mochila | Aprovada |
-| INV-003 | Expiração | Itens obtidos expiram toda segunda-feira, segundo reset semanal | Aprovada; horário/fuso a definir |
+| INV-003 | Expiração | Política de validade/expiração de itens ainda não definida | Pendente — não implementar |
 
-**Nota interpretativa:** “validade de uma semana” e “toda segunda os inventários expiram” foram expressões utilizadas juntas. Registrou-se reset semanal às segundas, sem assumir validade individual de sete dias completos. Detalhes pendentes não devem ser implementados por suposição.
+**Nota:** a proposta de expiração semanal foi expressamente adiada pelo diretor criativo. Não assumir reset, calendário, duração ou exceções.
 
 **Pontos ainda sem aprovação:** dimensão da mochila, conteúdo do equipamento padrão, quais itens se mantêm após o reset, horário e fuso da expiração, condições de retenção de itens após derrota e integração dos inventários entre modos.
