@@ -78,11 +78,11 @@ Consulte [DECISOES.md](DECISOES.md). Só promover propostas a decisões mediante
 - **Pré-missão:** período de **15 segundos** para escolher o equipamento que o jogador levará.
 - **Sem escolha:** aplicar automaticamente um **equipamento padrão**, cuja composição permanece indefinida.
 - **Coleta:** jogadores podem encontrar e levar itens obtidos durante as missões, condicionados ao **espaço disponível na mochila**.
-- **Expiração:** itens obtidos têm renovação/expiração **toda segunda-feira**, conforme instrução do criador. A expressão “validade de uma semana” precisa ser conciliada com reset semanal: até confirmação, o calendário da segunda-feira é a regra operacional registrada, não sete dias individuais contados por item.
+- **Expiração:** ideia anteriormente levantada, mas **decisão adiada**. Não assumir prazo de validade nem reset semanal; não implementar neste momento.
 
 ### Questões em aberto (não presumir)
-- Horário e fuso do reset de segunda-feira; como tratar missões iniciadas antes da virada.
-- Se o reset abrange todos os itens coletados, inclusive os equipados, ou exceções.
+- Se haverá expiração, qual prazo e como tratar missões em andamento.
+- Quais itens eventualmente estariam sujeitos à política de expiração, caso ela seja aprovada.
 - Quais itens básicos persistem para compor o equipamento padrão.
 - Capacidade da mochila (slots, peso, volume) e como itens ocupam espaço.
 - Se itens coletados são preservados ao abandonar ou perder uma missão.
